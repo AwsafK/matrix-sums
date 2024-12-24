@@ -1,7 +1,5 @@
 /*
 Program Name: Assignment 1 Matrix
-Date due: 01/26/2024
-Author: Awsaf Ahmad Kabir
 Module Purpose:
 This program reads matrices from an input file, determines whether or not it is vertically additive symmetric, and then sorts and outputs the rows of each matrix in ascending order 
 */
